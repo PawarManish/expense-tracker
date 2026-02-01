@@ -1,0 +1,29 @@
+.HomeJsx {
+  /* background-color: rgb(93, 93, 93); */
+}
+
+.ExpenseForm {
+  width: 40vw;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.ExpenseForm input,
+button {
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+}
+button {
+  padding: 5px 10px;
+  height: 30px;
+  background-color: rgb(254, 71, 71);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(255, 40, 40);
+}

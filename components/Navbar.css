@@ -1,0 +1,18 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.linksDiv {
+  display: flex;
+  gap: 20px;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+}
+
+.AppNameHome {
+  font-weight: bold;
+}
